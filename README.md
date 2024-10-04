@@ -3,7 +3,7 @@ Chainlink RWA Bootcamp 2024
 https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024/day-1/welcome-to-tokenized-rwa-bootcamp
 
 
-Contracts Deployed to Avalance Fuji Testnet
+Contracts Deployed to Avalance Fuji Testnet (https://testnet.snowtrace.io/)
 
 RealEstateToken.sol
 
